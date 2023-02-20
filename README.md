@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Henock-Adane
 - 👀 I’m interested in digitizing solutions 
-- 🌱 I’m currently learning Software engineering @ ALX
+- 🌱 I’m currently working on android mobile applications
 <!-- - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
 -->
