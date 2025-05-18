@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Henock-Adane
 - 👀 I’m interested in digitizing solutions 
-- 🌱 I’m currently working on android mobile applications
+- 🌱 I’m currently working on Power BI projects
 <!-- - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
 -->
